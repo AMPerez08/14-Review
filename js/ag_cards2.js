@@ -5,8 +5,8 @@
    Tutorial 14
    Review Assignment
 
-   Author: 
-   Date:   
+   Author: Aleyah Perez
+   Date:   4/16/26
 
    Filename: ag_cards2.js
 
@@ -34,7 +34,6 @@
 	
 */
 
-/*    The squareGame Object  */
 /*    The squareGame Object  */
 var squareGame = {
   cardGrid: [
