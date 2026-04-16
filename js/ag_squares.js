@@ -5,8 +5,8 @@
    Tutorial 14
    Review Assignment
 
-   Author: 
-   Date:   
+   Author: Aleyah Perez
+   Date:   4/16/26
    
    Filename: ag_squares.js
 
